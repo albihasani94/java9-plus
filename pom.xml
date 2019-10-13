@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.jdk.java9plus.Main</mainClass>
+                            <mainClass>com.jdk.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,8 +1,8 @@
-package com.jdk.java9plus.stream;
+package com.jdk.java9.stream;
 
 import java.util.stream.Stream;
 
-import static com.jdk.java9plus.stream.Book.getBook;
+import static com.jdk.java9.stream.Book.getBook;
 
 public class OfNullable {
 

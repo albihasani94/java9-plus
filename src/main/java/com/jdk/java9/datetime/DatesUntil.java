@@ -1,4 +1,4 @@
-package com.jdk.java9plus.datetime;
+package com.jdk.java9.datetime;
 
 import java.time.LocalDate;
 import java.time.Period;

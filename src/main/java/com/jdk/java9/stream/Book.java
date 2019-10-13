@@ -1,4 +1,4 @@
-package com.jdk.java9plus.stream;
+package com.jdk.java9.stream;
 
 import java.util.Set;
 import java.util.stream.Stream;

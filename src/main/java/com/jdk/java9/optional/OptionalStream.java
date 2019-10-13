@@ -1,6 +1,6 @@
-package com.jdk.java9plus.optional;
+package com.jdk.java9.optional;
 
-import com.jdk.java9plus.stream.Book;
+import com.jdk.java9.stream.Book;
 
 import java.util.Optional;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.jdk.java9plus;
+package com.jdk;
 
 public class Main {
     public static void main(String[] args) {

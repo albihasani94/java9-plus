@@ -1,4 +1,4 @@
-package com.jdk.java9plus.collection;
+package com.jdk.java9.collection;
 
 import java.util.List;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.jdk.java9plus.stream;
+package com.jdk.java9.stream;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;

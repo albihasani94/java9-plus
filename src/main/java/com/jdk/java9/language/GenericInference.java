@@ -1,4 +1,4 @@
-package com.jdk.java9plus.language;
+package com.jdk.java9.language;
 
 import java.util.ArrayList;
 import java.util.List;
